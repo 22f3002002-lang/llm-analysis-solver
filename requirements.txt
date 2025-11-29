@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+pandas
+pdfplumber
+beautifulsoup4
+openpyxl
+pillow
+reportlab
+networkx
+scipy
+matplotlib
+python-multipart
